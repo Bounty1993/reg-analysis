@@ -10,3 +10,9 @@ mentioned more flexible models.
 * splines - Implementation of splines from scratch.
 * base_reg - Example of using statsmodels.
 * walmart - in progress.
+
+### Main libraries:
+* scikit-learn
+* statsmodels
+* numpy/pandas/matplotlib
+* xgboost
